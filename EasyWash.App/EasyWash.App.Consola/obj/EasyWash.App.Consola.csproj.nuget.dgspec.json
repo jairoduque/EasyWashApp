@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj": {}
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj": {}
   },
   "projects": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj": {
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj",
+        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj",
         "projectName": "EasyWash.App.Consola",
-        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj",
+        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Consola\\EasyWash.App.Consola.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Consola\\obj\\",
+        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
