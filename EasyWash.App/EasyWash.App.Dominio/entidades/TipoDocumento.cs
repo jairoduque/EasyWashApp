@@ -8,6 +8,5 @@ namespace EasyWash.App.Dominio.entidades
        Cedula_de_Ciudadania,
        cedula_de_Extranjeria,
        Pasaporte
-        
     }
 }
