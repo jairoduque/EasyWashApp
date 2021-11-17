@@ -8,5 +8,7 @@ namespace EasyWash.App.Dominio.entidades
         public int Id {get;set;}
         public DateTime FechaIng_cli {get; set;}
         public string Estado_cli {get; set;}
+
+        public Vehiculo Vehiculo {get; set;}
     }
 }
