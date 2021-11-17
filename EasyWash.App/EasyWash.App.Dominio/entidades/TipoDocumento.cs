@@ -1,4 +1,4 @@
-namespace EasyWash.App.Dominio.entidades
+namespace EasyWash.App.Dominio
 {
     /// <summary>
     /// Lista de Tipo de Documentos

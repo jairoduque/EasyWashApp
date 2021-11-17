@@ -5,6 +5,7 @@ namespace EasyWash.App.Dominio
 {
     public class Trabajador : Persona
     {
+        public int Id {get; set;}
         public string Eps_trab {get; set;}
         public string Arl_trab { get; set;}
         public DateTime FechaIng_trab {get; set;}

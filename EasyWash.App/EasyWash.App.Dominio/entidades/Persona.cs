@@ -3,18 +3,16 @@ namespace EasyWash.App.Dominio
 {
     public class Persona
     {
-        public int id_per {get; set;}
+        public int Id {get; set;}
        //Tipo de Documentos
-       public TipoDocumento TipoDocumento {get; set;}
-        public string numdoc_per {get; set;}
-        public string nom_per {get; set;}
-        public DateTime fechanac_per {get; set;}
-        public int edad_per {get; set;}
-        public string tel1_per {get; set;}
-        public string tel2_per {get; set;}
-        public string dir_per {get; set;}
-        public string email_per {get; set;}
-
-
+        public TipoDocumento TipoDocumento {get; set;}
+        public string Numdoc_per {get; set;}
+        public string Nom_per {get; set;}
+        public DateTime Fechanac_per {get; set;}
+        public int Edad_per {get; set;}
+        public string Tel1_per {get; set;}
+        public string Tel2_per {get; set;}
+        public string Dir_per {get; set;}
+        public string Email_per {get; set;}
     }
 }
