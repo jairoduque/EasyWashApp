@@ -1,4 +1,4 @@
-namespace EasyWash.App.Dominio.entidades
+namespace EasyWash.App.Dominio
 {
     public class Vehiculo : TipoVehiculo
     {
