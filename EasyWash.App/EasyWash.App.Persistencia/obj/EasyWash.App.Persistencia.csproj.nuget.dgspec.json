@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj": {}
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj": {}
   },
   "projects": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj": {
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj",
+        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj",
         "projectName": "EasyWash.App.Persistencia",
-        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj",
+        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Persistencia\\EasyWash.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Persistencia\\obj\\",
+        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,28 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
