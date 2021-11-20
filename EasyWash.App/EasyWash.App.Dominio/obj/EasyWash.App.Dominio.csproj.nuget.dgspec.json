@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj": {}
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj": {}
   },
   "projects": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj": {
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj",
+        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj",
         "projectName": "EasyWash.App.Dominio",
-        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj",
+        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Dominio\\obj\\",
+        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

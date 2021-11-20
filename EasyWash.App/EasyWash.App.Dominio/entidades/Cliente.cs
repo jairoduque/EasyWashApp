@@ -5,7 +5,6 @@ namespace EasyWash.App.Dominio
 {
     public class Cliente : Persona
     {
-        public int Id {get;set;}
         public DateTime FechaIng_cli {get; set;}
         public string Usu_cli {get; set;}
         public string Pass_Cli {get; set;}

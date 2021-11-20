@@ -1519,6 +1519,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "EasyWash.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EasyWash.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyWash.App.Dominio.dll": {}
+        }
       }
     }
   },
@@ -5739,10 +5749,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "EasyWash.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../EasyWash.App.Dominio/EasyWash.App.Dominio.csproj",
+      "msbuildProject": "../EasyWash.App.Dominio/EasyWash.App.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "EasyWash.App.Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.10",
@@ -5777,7 +5793,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj": {
+              "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Dominio\\EasyWash.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
