@@ -12,5 +12,11 @@ namespace EasyWash.App.Persistencia
         public dbSet<TipoVehiculo> TipoVehiculos {get; set;}
         public dbSet<Trabajador> Trabajadores {get; set;}
         public dbSet<Vehiculo> Vehiculos {get; set;}
+
+        protected override void OnConfiguring (DbContextOptionsBuilder optionsBuilder){
+            if(!optionsBuilder.IsConfigured){
+                optionsBuilder.UseSqlServer("");
+            }
+        }
     }
 }
