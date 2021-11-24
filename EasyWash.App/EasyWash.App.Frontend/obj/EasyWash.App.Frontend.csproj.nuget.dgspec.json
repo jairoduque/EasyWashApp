@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj": {}
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj": {}
   },
   "projects": {
-    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj": {
+    "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj",
+        "projectUniqueName": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj",
         "projectName": "EasyWash.App.Frontend",
-        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj",
+        "projectPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Frontend\\obj\\",
+        "outputPath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

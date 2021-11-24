@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7d8HcqZ9yNKoDfYinrZM56yPIslQztj86dUwHyd2eFACe4LSRFQZHrUjLyhX7v2KMbbQYpvcnfCfPZ1vIgxPaQ==",
+  "dgSpecHash": "Sc7ZvKnbfR+SzJ+22BYMbCUxQRq/z2DAnd20piFnivI1D0WxM8sp2Xrb1NGPAK7m+lFFQqeezRNP4GWzBbEznQ==",
   "success": true,
-  "projectFilePath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj",
+  "projectFilePath": "E:\\xampp\\htdocs\\EasyWashApp\\EasyWash.App\\EasyWash.App.Frontend\\EasyWash.App.Frontend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
