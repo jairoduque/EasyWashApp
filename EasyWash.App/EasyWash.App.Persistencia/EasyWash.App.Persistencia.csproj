@@ -20,5 +20,4 @@
   <ItemGroup>
     <ProjectReference Include="..\EasyWash.App.Dominio\EasyWash.App.Dominio.csproj" />
   </ItemGroup>
-   
 </Project>
